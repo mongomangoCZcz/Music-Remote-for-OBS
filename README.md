@@ -26,3 +26,5 @@ pip install flask
 ```bash
 pip install yt_dlp
 ```
+
+Now download musicremote_obs.zip [Download HERE](https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current)
