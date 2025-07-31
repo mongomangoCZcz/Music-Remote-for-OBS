@@ -16,3 +16,5 @@ music remote for obs
 <button><a href="https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current">Download Here</a></button>
 
 ## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask, yt_dlp
