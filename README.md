@@ -1,2 +1,2 @@
-# Music-Remote-for-OBS
+# 🎵 Music Remote for OBS
 music remote for obs
