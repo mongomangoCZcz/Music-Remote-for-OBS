@@ -43,3 +43,4 @@ python <path to the play_server.py file>
 ```
 
 This will be displayed if the music remote starts correctly.
+<img src="Images/">
