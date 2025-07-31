@@ -13,7 +13,6 @@ music remote for obs
 <img src="Images/windows-photo.png">
 <p style="margin-top: 0.5rem; font-size: 1rem; text-align: center;">photo from Windows 10</p></div>
 
-<button><a href="https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current">Download Here</a></button>
 
 ## Installation
 
@@ -27,7 +26,7 @@ pip install flask
 pip install yt_dlp
 ```
 
-Now download musicremote_obs.zip [Download HERE](https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current)
+Now download musicremote_obs.zip [DOWNLOAD HERE](https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current)
 
 ## Run
 
