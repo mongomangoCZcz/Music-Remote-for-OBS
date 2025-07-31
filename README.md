@@ -1,6 +1,7 @@
 # 🎵 Music Remote for OBS
 music remote for obs
-<li>Use in IRL streaming and more</li><br>
+<li>Use in IRL streaming and more</li>
+<li>Responsive UI for phone and computer</li><br>
 <div style="text-align: center; margin-top: 1rem;">
 <img src="Images/IMG_1803.png" style="height:380px; width: 170px;">
 <p style="margin-top: 0.5rem; font-size: 1rem;">photo from mobile device</p></div><br>
