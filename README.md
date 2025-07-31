@@ -1,5 +1,6 @@
 # 🎵 Music Remote for OBS
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mongomangoCZcz/Music-Remote-for-OBS/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/mongomangoCZcz/Music-Remote-for-OBS)
 
 <li>Use in IRL streaming and more</li>
 <li>Responsive UI for phone and computer</li>
