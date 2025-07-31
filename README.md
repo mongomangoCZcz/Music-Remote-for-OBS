@@ -6,5 +6,5 @@ music remote for obs
 <p style="margin-top: 0.5rem; font-size: 1rem;">photo from mobile device</p></div><br>
 <div style="text-align: center; margin-top: 1rem;">
 <img src="Images/Mac-photo.png" style="">
-<p style="margin-top: 0.5rem; font-size: 1rem;">photo from Mac</p></div>
+<p style="margin-top: 0.5rem; font-size: 1rem; text-align: center;">photo from Mac</p></div>
 <button><a href="https://github.com/mongomangoCZcz/Music-Remote-for-OBS/releases/tag/current">Download Here</a></button>
