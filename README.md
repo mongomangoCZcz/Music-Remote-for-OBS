@@ -18,3 +18,7 @@ music remote for obs
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask, yt_dlp
+
+```bash
+pip install flask
+```
